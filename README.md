@@ -33,6 +33,6 @@
 
 <div align="center">
 
-  ![Hussein's GitHub profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hussein-firas&theme=tokyonight)
+  ![Hussein's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hussein-firas&theme=tokyonight)
 
 </div>
