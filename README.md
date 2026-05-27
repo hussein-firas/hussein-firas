@@ -2,8 +2,7 @@
 <h3 align="center">Senior Platform Engineer · London</h3>
 
 <p align="center">
-  Building reliable, secure cloud platforms on Kubernetes and GCP.<br/>
-  Focused on AI infrastructure, policy-as-code, and developer experience.
+  Building reliable, secure cloud platforms on Kubernetes and GCP.
 </p>
 
 <br/>
@@ -27,6 +26,6 @@
 
 <div align="center">
 
-  ![Hussein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hussein-firas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![Hussein's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=hussein-firas&theme=tokyo-night&hide_border=true&area=true&radius=8)
 
 </div>
