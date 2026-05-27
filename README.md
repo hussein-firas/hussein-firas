@@ -24,8 +24,7 @@
 
 <br/>
 
-<div align="center">
+<h3 align="center">Open source contributions</h3>
 
-  ![Hussein's GitHub profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hussein-firas&theme=tokyonight)
-
-</div>
+- [**containers/skopeo**](https://github.com/containers/skopeo/pull/2189) — added semver filter support to the `sync` command
+- [**prometheus-community/helm-charts**](https://github.com/prometheus-community/helm-charts/pull/4125) — `kube-prometheus-stack`: global `sampleLimit` on `prometheusSpec`
