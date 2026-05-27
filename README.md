@@ -26,6 +26,6 @@
 
 <div align="center">
 
-  ![Hussein's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=hussein-firas&theme=tokyo-night&hide_border=true&area=true&radius=8)
+  ![Hussein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hussein-firas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 </div>
