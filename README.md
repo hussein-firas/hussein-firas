@@ -26,6 +26,6 @@
 
 <div align="center">
 
-  ![Hussein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hussein-firas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=hussein-firas&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
