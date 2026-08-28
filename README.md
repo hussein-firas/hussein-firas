@@ -28,6 +28,7 @@
 
 - [**containers/skopeo**](https://github.com/containers/skopeo/pull/2189) — added semver filter support to the `sync` command
 - [**prometheus-community/helm-charts**](https://github.com/prometheus-community/helm-charts/pull/4125) — `kube-prometheus-stack`: global `sampleLimit` on `prometheusSpec`
+- [**learnk8s/kubernetes-instance-calculator-data**](https://github.com/learnk8s/kubernetes-instance-calculator-data) — core contributor for the scripts that pull instance types, pricing and provisioning times from AWS, GCP and Azure behind the [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
 
 <br/>
 
